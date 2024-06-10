@@ -1,4 +1,4 @@
-# css-inspiration
+# CSS-Inspiration
 1. https://uiverse.io/ozgeozkaraa01/sharp-rattlesnake-74
 2. https://uiverse.io/G4b413l/mean-stingray-9
 3. https://uiverse.io/vinodjangid07/good-donkey-28
